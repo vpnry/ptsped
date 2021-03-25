@@ -126,7 +126,7 @@ Here are some apps:
 
 ## 1. iPhone/iPad/iPod
 
-Install *Dicty app* (free), click on *Dictionaries* tab, then click on  **cloud 🌩️icon** (download from cloud), ***copy*** the <u>**link**</u> of your preferred pāḷi script as listed above and ***paste*** to the  **"Enter URL"** field, then click on **Download**.
+Install [*Dicty app*](https://apps.apple.com/vn/app/dicty/id969045273) (free), click on *Dictionaries* tab, then click on  **cloud 🌩️icon** (download from cloud), ***copy*** the <u>**link**</u> of your preferred pāḷi script as listed above and ***paste*** to the  **"Enter URL"** field, then click on **Download**.
 
 For example, for pāḷi Roman (~2.4M), copy this link:
 
@@ -140,7 +140,7 @@ and so on.
 
 ## 2. Android powered devices
 
-Install *Fora Dictionary Pro* and **run it**. To run it after installed is to let it create its app directory. (You may need to give its "Storage permission" if your phone requires.)
+Install [*Fora Dictionary Pro*](https://fora-dictionary-pro.com) and **run it**. To run it after installed is to let it create its app directory. (You may need to give its "Storage permission" if your phone requires.)
 
 Download your preferred pāḷi script file as listed above. 
 
