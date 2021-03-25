@@ -1,0 +1,17 @@
+zip Bengali-PTSPED-2021.zip Bengali-PTSPED-2021.dict Bengali-PTSPED-2021.idx Bengali-PTSPED-2021.ifo
+zip Brahmi-PTSPED-2021.zip Brahmi-PTSPED-2021.dict Brahmi-PTSPED-2021.idx Brahmi-PTSPED-2021.ifo
+zip Cyrillic-PTSPED-2021.zip Cyrillic-PTSPED-2021.dict Cyrillic-PTSPED-2021.idx Cyrillic-PTSPED-2021.ifo
+zip Devanagari-PTSPED-2021.zip Devanagari-PTSPED-2021.dict Devanagari-PTSPED-2021.idx Devanagari-PTSPED-2021.ifo
+zip Gujarati-PTSPED-2021.zip Gujarati-PTSPED-2021.dict Gujarati-PTSPED-2021.idx Gujarati-PTSPED-2021.ifo
+zip Gurmukhi-PTSPED-2021.zip Gurmukhi-PTSPED-2021.dict Gurmukhi-PTSPED-2021.idx Gurmukhi-PTSPED-2021.ifo
+zip Kannada-PTSPED-2021.zip Kannada-PTSPED-2021.dict Kannada-PTSPED-2021.idx Kannada-PTSPED-2021.ifo
+zip Khmer-PTSPED-2021.zip Khmer-PTSPED-2021.dict Khmer-PTSPED-2021.idx Khmer-PTSPED-2021.ifo
+zip Laos-PTSPED-2021.zip Laos-PTSPED-2021.dict Laos-PTSPED-2021.idx Laos-PTSPED-2021.ifo
+zip Malayalam-PTSPED-2021.zip Malayalam-PTSPED-2021.dict Malayalam-PTSPED-2021.idx Malayalam-PTSPED-2021.ifo
+zip Myanmar-PTSPED-2021.zip Myanmar-PTSPED-2021.dict Myanmar-PTSPED-2021.idx Myanmar-PTSPED-2021.ifo
+zip PTSPED-2021.zip PTSPED-2021.dict PTSPED-2021.idx PTSPED-2021.ifo
+zip Sinhala-PTSPED-2021.zip Sinhala-PTSPED-2021.dict Sinhala-PTSPED-2021.idx Sinhala-PTSPED-2021.ifo
+zip TaiTham-PTSPED-2021.zip TaiTham-PTSPED-2021.dict TaiTham-PTSPED-2021.idx TaiTham-PTSPED-2021.ifo
+zip Telugu-PTSPED-2021.zip Telugu-PTSPED-2021.dict Telugu-PTSPED-2021.idx Telugu-PTSPED-2021.ifo
+zip Thai-PTSPED-2021.zip Thai-PTSPED-2021.dict Thai-PTSPED-2021.idx Thai-PTSPED-2021.ifo
+zip Tibetan-PTSPED-2021.zip Tibetan-PTSPED-2021.dict Tibetan-PTSPED-2021.idx Tibetan-PTSPED-2021.ifo
