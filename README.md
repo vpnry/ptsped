@@ -41,7 +41,7 @@ Converted to Stardict format files from a HTML source file released by [Buddhadu
 
 All definitions are in English as of the Pāḷi Roman PTS PED, *only the **words** to be looked up are in your selected scripts*. There are **17 files of them for 17 pāḷi scripts**, find your preferred one. 
 
-Note: `Easy copy links` are listed to let one copy the download links conveniently on their touch screen devices (see [1. iPhone/iPad/iPod](#1-iphone-ipad-ipod) session below). They have the **same** content with the HTML download links. One **doesn't need** to download a link twice!
+Note: `Easy copy links` are listed to let one copy the download links conveniently on their touch screen devices (see [1. iPhone/iPad/iPod](#1-iphoneipadipod) session below). They have the **same** content with the HTML download links. One **doesn't need** to download a link twice!
 
 **Stardict dictionary data**
 
