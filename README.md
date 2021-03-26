@@ -2,7 +2,7 @@
 
 # A Digital Version of The PTS Pali-English Dictionary (proofread 2021)
 
-A digital version of The Pali Text Society's Pāli-English Dictionary in Stardict dictionary format files. All word definitions are in English as of the Pāḷi Roman PTS PED, *only the words to be looked up are in various pāḷi scripts*.  There are **17 files of them for 17 pāḷi scripts**, choose your preferred one in the download session below. 
+A digital version of The Pali Text Society's Pāli-English Dictionary in Stardict dictionary format files. All word definitions are in English as of the Pāḷi Roman PTS PED, *only the words to be looked up are in various pāḷi scripts*.  There are **17 files of them for 17 pāḷi scripts**, choose your preferred one in the [download](#download) session below. 
 
 ## Quick Info
 
@@ -19,9 +19,11 @@ This 2021 proofread Buddhadust -  PTS PED digital version is currently supposed 
 > + Credits belong to PTS & Buddhadust's efforts. 
 >
 > + To convert pāḷi Roman to other scripts, we used a script converter developed by Janaka ([tipitaka.app](https://tipitaka.app)) used with its author consent in 2020.
->
+>     
 
-# License
+
+
+## License
 
 This derived work follows the license stated in the source file:
 
@@ -35,11 +37,11 @@ Converted to Stardict format files from a HTML source file released by [Buddhadu
 
 ```
 
-# Download
+## Download
 
 All definitions are in English as of the Pāḷi Roman PTS PED, *only the **words** to be looked up are in your selected scripts*. There are **17 files of them for 17 pāḷi scripts**, find your preferred one. 
 
-Note: `Easy copy links` are listed to let one copy the download links conveniently on their touch screen devices (see 1. iPhone/iPad/iPod* session below). They have the **same** content with the HTML download links. One **doesn't need** to download a link twice!
+Note: `Easy copy links` are listed to let one copy the download links conveniently on their touch screen devices (see [1. iPhone/iPad/iPod](#1-iphone-ipad-ipod) session below). They have the **same** content with the HTML download links. One **doesn't need** to download a link twice!
 
 **Stardict dictionary data**
 
@@ -56,7 +58,7 @@ Note: `Easy copy links` are listed to let one copy the download links convenient
 
 
 4. Pāḷi Cyrillic - **кириллица** (~2.5M) [Cyrillic-PTSPED-2021.zip](https://vpnry.github.io/ptsped/stardict/Cyrillic-PTSPED-2021.zip)
-    Easy copy link:   `https://vpnry.github.io/ptsped/stardict/Cyrillic-PTSPED-2021`
+    Easy copy link:   `https://vpnry.github.io/ptsped/stardict/Cyrillic-PTSPED-2021.zip`
 
 
 5. Pāḷi Devanagari - **हिन्दी** (~2.5M) [Devanagari-PTSPED-2021.zip](https://vpnry.github.io/ptsped/stardict/Devanagari-PTSPED-2021.zip)
@@ -112,13 +114,13 @@ Note: `Easy copy links` are listed to let one copy the download links convenient
 
 **Tab files for developers**
 
-+ Pls respect the license of PTS and make an attribution note to Buddhadust.
++ Pls keep the license of PTS and make an attribution note to Buddhadust.
 
-+ To quickly download a particular tab file of a pāḷi script, pls see the [#Appendix Tab-file links](#appendixtabfilelinks) session below.
++ To quickly download a particular tabfile of a pāḷi script, pls see the [Appendix Tabfile links](#appendix-tabfile-links) session below.
 
-+ [Github repository](https://github.com/vpnry/ptsped/) 
++ Some converter code files: check **dev** dir in this [Github repository](https://github.com/vpnry/ptsped/) 
 
-# How To Use
+## How To Use
 
 In general, the above Stardict dictionary data can be used with apps that support Stardict dictionary format (version 3.0.0).
 
@@ -126,7 +128,7 @@ Here are some apps:
 
 ## 1. iPhone/iPad/iPod
 
-Install [*Dicty app*](https://apps.apple.com/vn/app/dicty/id969045273) (free), click on *Dictionaries* tab, then click on  **cloud 🌩️icon** (download from cloud), ***copy*** the <u>**link**</u> of your preferred pāḷi script as listed above and ***paste*** to the  **"Enter URL"** field, then click on **Download**.
+Install [*Dicty app*](https://apps.apple.com/vn/app/dicty/id969045273) (free), click on *Dictionaries* tab, then click on  **cloud 🌩️ icon** (download from cloud), ***copy*** the <u>**link**</u> of your preferred pāḷi script as listed above and ***paste*** to the  **"Enter URL"** field, then click on **Download**.
 
 For example, for pāḷi Roman (~2.4M), copy this link:
 
@@ -156,7 +158,14 @@ and so on.
 
 Then use your phone File manager, copy the downloaded zip file to Fora app **Document** dir (on our phone, its full path is):
 
-` /storage/emulated/0/Android/data/com.ngc.fora.android/files/Documents/ `
+```
+
+your-phone-internal-storage/Android/data/com.ngc.fora.android/files/Documents/
+
+
+```
+
+If you do not see "com.ngc.fora.android" directory, pls run Fora first, at least one time and try again.
 
 
 Open Fora, on its home screen, click on **Manage**, choose **Import Dictionary**, then browse to the above downloaded zip file.
@@ -169,16 +178,17 @@ Pls refer to your particular software instructions on how to add dictionary data
 
 ## 4. Bug report
 
-If you found bugs, you may open an new issue here on Github or email us.
-
-# Appendix Tab-file links
+If you found bugs or errors related to this project, you may open a [new Git issue](https://github.com/vpnry/ptsped/issues/new/choose) or contact us via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe9zXQVbkIynNwZAYlpc-C5QVCfYJ08pclcy8kuDtTgVk40YQ/viewform?usp=sf_link).
 
 
-1. Tabfile of Pāḷi **Roman** (~2.4M) [Tabfile_PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_PTSPED-2021.zip)
+## Appendix Tabfile links
+
+
+1. Tabfile of Pāḷi **Roman** (~2.2M) [Tabfile_PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_PTSPED-2021.zip)
    Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_PTSPED-2021.zip` 
 
 
-2. Tabfile of Pāḷi Bengali - **বাংলা** (~2.5M) [Tabfile_Bengali-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Bengali-PTSPED-2021.zip)
+2. Tabfile of Pāḷi Bengali - **বাংলা** (~2.3M) [Tabfile_Bengali-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Bengali-PTSPED-2021.zip)
    Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_PTSPED-2021.zip`
 
 
@@ -186,57 +196,57 @@ If you found bugs, you may open an new issue here on Github or email us.
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Brahmi-PTSPED-2021.zip`
 
 
-4. Tabfile of Pāḷi Cyrillic - **кириллица** (~2.5M) [Tabfile_Cyrillic-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Cyrillic-PTSPED-2021.zip)
-    Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Cyrillic-PTSPED-2021`
+4. Tabfile of Pāḷi Cyrillic - **кириллица** (~2.4M) [Tabfile_Cyrillic-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Cyrillic-PTSPED-2021.zip)
+    Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Cyrillic-PTSPED-2021.zip`
 
 
-5. Tabfile of Pāḷi Devanagari - **हिन्दी** (~2.5M) [Tabfile_Devanagari-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Devanagari-PTSPED-2021.zip)
+5. Tabfile of Pāḷi Devanagari - **हिन्दी** (~2.3M) [Tabfile_Devanagari-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Devanagari-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Devanagari-PTSPED-2021.zip`
 
 
-6. Tabfile of Pāḷi Gujarati - **ગુજરાતી** (~2.5M) [Tabfile_Gujarati-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Gujarati-PTSPED-2021.zip)
+6. Tabfile of Pāḷi Gujarati - **ગુજરાતી** (~2.3M) [Tabfile_Gujarati-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Gujarati-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Gujarati-PTSPED-2021.zip`
 
 
-7. Tabfile of Pāḷi Gurmukhi - **ਗੁਰਮੁਖੀ** (~2.5M) [Tabfile_Gurmukhi-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Gurmukhi-PTSPED-2021.zip)
+7. Tabfile of Pāḷi Gurmukhi - **ਗੁਰਮੁਖੀ** (~2.3M) [Tabfile_Gurmukhi-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Gurmukhi-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Gurmukhi-PTSPED-2021.zip`
 
 
-8. Tabfile of Pāḷi Kannada - **ಕನ್ನಡ** (~2.5M) [Tabfile_Kannada-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Kannada-PTSPED-2021.zip)
+8. Tabfile of Pāḷi Kannada - **ಕನ್ನಡ** (~2.3M) [Tabfile_Kannada-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Kannada-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Kannada-PTSPED-2021.zip`
 
 
-9. Tabfile of Pāḷi Khmer - **ភាសាខ្មែរ** (~2.5M) [Tabfile_Khmer-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Khmer-PTSPED-2021.zip)
+9. Tabfile of Pāḷi Khmer - **ភាសាខ្មែរ** (~2.3M) [Tabfile_Khmer-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Khmer-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Khmer-PTSPED-2021.zip`
 
 
-10. Tabfile of Pāḷi Laos - **ລາວ** (~2.5M) [Tabfile_Laos-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Laos-PTSPED-2021.zip)
+10. Tabfile of Pāḷi Laos - **ລາວ** (~2.4M) [Tabfile_Laos-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Laos-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Laos-PTSPED-2021.zip`
 
 
-11. Tabfile of Pāḷi Malayalam - **മലയാളം** (~2.5M) [Tabfile_Malayalam-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Malayalam-PTSPED-2021.zip)
+11. Tabfile of Pāḷi Malayalam - **മലയാളം** (~2.3M) [Tabfile_Malayalam-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Malayalam-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Malayalam-PTSPED-2021.zip`
 
 
-12. Tabfile of Pāḷi Myanmar - **ဗမာစာ** (~2.5M) [Tabfile_Myanmar-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Myanmar-PTSPED-2021.zip)
+12. Tabfile of Pāḷi Myanmar - **ဗမာစာ** (~2.4M) [Tabfile_Myanmar-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Myanmar-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Myanmar-PTSPED-2021.zip`
 
 
-13. Tabfile of Pāḷi Sinhala - **සිංහල** (~2.5M) [Tabfile_Sinhala-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Sinhala-PTSPED-2021.zip)
+13. Tabfile of Pāḷi Sinhala - **සිංහල** (~2.4M) [Tabfile_Sinhala-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Sinhala-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Sinhala-PTSPED-2021.zip`
 
 
-14. Tabfile of Pāḷi Tai Tham - **Tai Tham LN** (~2.5M) [Tabfile_TaiTham-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_TaiTham-PTSPED-2021.zip)
+14. Tabfile of Pāḷi Tai Tham - **Tai Tham LN** (~2.3M) [Tabfile_TaiTham-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_TaiTham-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_TaiTham-PTSPED-2021.zip`
 
 
-15. Tabfile of Pāḷi Telugu - **తెలుగు** (~2.5M) [Tabfile_Telugu-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Telugu-PTSPED-2021.zip)
+15. Tabfile of Pāḷi Telugu - **తెలుగు** (~2.3M) [Tabfile_Telugu-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Telugu-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Telugu-PTSPED-2021.zip`
 
 
-16. Tabfile of Pāḷi Thai - **ไทย** (~2.5M) [Tabfile_Thai-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Thai-PTSPED-2021.zip)
+16. Tabfile of Pāḷi Thai - **ไทย** (~2.4M) [Tabfile_Thai-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Thai-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Thai-PTSPED-2021.zip`
 
 
-17. Tabfile of Pāḷi Tibetan - **བོད་སྐད།** (~2.5M) [Tabfile_Tibetan-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Tibetan-PTSPED-2021.zip)
+17. Tabfile of Pāḷi Tibetan - **བོད་སྐད།** (~2.3M) [Tabfile_Tibetan-PTSPED-2021.zip](https://vpnry.github.io/ptsped/tabfiles/Tabfile_Tibetan-PTSPED-2021.zip)
     Tabfile easy copy link:   `https://vpnry.github.io/ptsped/tabfiles/Tabfile_Tibetan-PTSPED-2021.zip`
